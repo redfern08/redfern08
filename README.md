@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaac Fearn
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python, HTML/CSS, JavaScript
-- 💞️ I’m looking to collaborate on projects involving data collection
+- 💞️ I’m looking to collaborate on projects involving data collection or machine learning/ai
 - 📫 How to reach me icfearn92@gmail.com
 
 <!---
