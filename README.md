@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Isaac Fearn
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python, HTML/CSS, JavaScript
-- 💞️ I’m looking to collaborate on projects involving data collection or machine learning/ai
-- 📫 How to reach me icfearn92@gmail.com
+# Hi, my name is Isaac Fearn
+I am a Software Engineer
+I specialize in Python, JavaScript, HTML and CSS
+I have experience with MatPlotLib, Plotly, Django and DjangoREST, Bootstrap and Vue.js
 
 <!---
 redfern08/redfern08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
