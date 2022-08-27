@@ -10,7 +10,7 @@ I have experience with MatPlotLib, Plotly, Django and DjangoREST, Bootstrap and 
 * More projects soon....
 
 ## Websites
-You can view my portfolio [here](https://isaacfearn.com/).  There, I will add more of my projects and work
+You can view my portfolio [here](https://isaacfearn.com/).  I will add more of my projects and work
 overtime.
 
 
