@@ -1,0 +1,118 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: rgb(24, 24, 207);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header {
+    font-family: 'Orbitron', sans-serif;
+    background-color: rgb(175, 48, 1);
+    border-radius: 10px;
+}
+
+nav, a {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    text-decoration: none;
+    gap: 3em;
+    justify-content: center;
+}
+
+#description {
+    padding-left: 5em;
+    padding-right: 5em;
+    line-height: 1.2em;
+    font-size: 1.2em;
+}
+
+img {
+    max-width: 30em;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px black;
+}
+
+
+#services {
+    background-color: rgba(145, 52, 18, 0.925);
+    border-radius: 10px;
+    padding: 1.5em;
+    margin: 5em;
+    line-height: 1.4;
+    text-align: left;
+}
+
+#services h3 {
+    
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+footer {
+    margin-top: 20em;
+}
+
+@media (min-width: 640px ) {
+    body {
+        margin: inherit;
+    }
+
+    header {
+        margin: inherit;
+    }
+
+
+}
+
+@media (min-width: 960px ) {
+    body {
+        margin: inherit;
+    }
+
+    header {
+        margin: inherit;
+    }
+
+    #description {
+        padding-left: 10em;
+        padding-right: 10em;
+        margin-bottom: 5em;
+    }
+
+    #services {
+        padding: inherit;
+        margin-left: 15em;
+        margin-right: 15em;
+    }
+    
+}
+
+@media (min-width: 1460px) {
+    body, html {
+        margin: inherit;
+    }
+
+    header {
+        margin-left: 5em;
+        margin-right: 5em;
+    }
+
+    #description {
+        margin-left: 5em;
+        margin-right: 5em;
+    }
+
+    #services {
+        margin-left: 30em;
+        margin-right: 30em;
+        padding: 2em;
+    }
+}
