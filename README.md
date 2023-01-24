@@ -5,7 +5,7 @@ I have experience with MatPlotLib, Plotly, Django and DjangoREST, Bootstrap and 
 
 ## Projects
 
-* RangeDay - A blog for firearm owners
+* TACT.Academy - An educational blog for firearm owners.
 * CuriosityPhotos - An app for Mars mission enthusiasts to view photos from the Curiosity rover on Mars.
 * More projects soon....
 
