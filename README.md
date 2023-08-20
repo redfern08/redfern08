@@ -1,6 +1,6 @@
 # About Me
 My name is Isaac Fearn and I am a Marine Corps veteran and Software Engineer.
-I specialize in Python, C++, JavaScript, HTML and CSS and
+I specialize in Python, GDScript, JavaScript, HTML and CSS and some C#.
 I have experience with pandas, NumPy, Matplotlib, Plotly, Django and DjangoREST, Bootstrap and Vue.js.
 
 ## Projects
