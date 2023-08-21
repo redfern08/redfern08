@@ -1,12 +1,13 @@
 # About Me
-My name is Isaac Fearn and I am a Marine Corps veteran and Software Engineer.
+My name is Isaac Fearn and I am a Marine Corps veteran, web developer and indie game developer.
 I specialize in Python, GDScript, JavaScript, HTML and CSS and some C#.
 I have experience with pandas, NumPy, Matplotlib, Plotly, Django and DjangoREST, Bootstrap and Vue.js.
+Game engine I currently use is Godot.
 
 ## Projects
 
-* TACT.Academy - An educational blog for firearm owners.
-* CuriosityPhotos - An app for Mars mission enthusiasts to view photos from the Curiosity rover on Mars.
+* Freedom Lost - a 2D top-down rpg shooter game built in Godot
+* CuriosityPhotos - an app for Mars mission enthusiasts to view photos from the Curiosity rover on Mars.
 * More projects soon....
 
 ## Websites
