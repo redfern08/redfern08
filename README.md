@@ -1,4 +1,4 @@
-## Hello! 👋 I am Isaac!  Full stack and indie game developer
+## Hello! 👋 I am Isaac!  Data analyst/engineer and indie game developer
 ---
 
 I am a passionate software developer, focused on building applications that will help
