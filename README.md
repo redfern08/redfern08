@@ -1,16 +1,12 @@
-## Hello! 👋 I am Isaac!  Data analyst/engineer and indie game developer
+## Hello! 👋 my name is Isaac!  I am a Data Engineer and Indie Game Developer
 ---
 
-I am a passionate software developer, focused on building applications that will help
-humanity, whether it is for healthcare or space exploration, I am fulfilled with making an
-impact.  Previously, I was a commercial truck driver.  I spent six years hauling many things, 
-keeping the flow of goods moving so that people were getting what they needed to survive.  Ultimately
-I wanted to make a career change and continue making an impact.  Software development has given me 
-the opportunity to continue making a difference and ensuring that people can obtain what they need.
+I love working with data, developing games and simulations.  If what I do helps 
+at least one person then I am happy.  
 
-## Tech stack I use
-**Languages** | Python, JavaScript, GDScript, C#, HTML, CSS
-**Frameworks** | Django, Vue.js, Flask, Bootstrap
+## TECH TREE
+**Languages** | Python, JavaScript, GDScript, C#, HTML, CSS, C++, SQL
+**Libraries** | pandas, matplotlib, seaborn
 **Database** | SQLite3, PostgreSQL, MySQL
 **Tools** | Git, VS Code, CMDprompt, PowerShell, API integration, Object Oriented Programming
 
