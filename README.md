@@ -5,10 +5,10 @@ I love working with data, developing games and simulations.  If what I do helps
 at least one person then I am happy.  
 
 ## TECH TREE
-**Languages** | Python, JavaScript, GDScript, C#, HTML, CSS, C++, SQL
-**Libraries** | pandas, matplotlib, seaborn
-**Database** | SQLite3, PostgreSQL, MySQL
-**Tools** | Git, VS Code, CMDprompt, PowerShell, API integration, Object Oriented Programming
+- **Languages** | Python, JavaScript, GDScript, C#, HTML, CSS, C++, SQL
+- **Libraries** | pandas, matplotlib, seaborn
+- **Database** | SQLite3, PostgreSQL, MySQL
+- **Tools** | Git, VS Code, CMDprompt, PowerShell, API integration, Object Oriented Programming
 
 ## Portfolio
 You can view my portfolio [here](https://isaacfearn.com/).  I will add more of my projects and work
