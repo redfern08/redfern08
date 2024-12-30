@@ -2,7 +2,11 @@
 ---
 
 I love working with data, developing games and simulations.  If what I do helps 
-at least one person then I am happy.  
+at least one person then I am happy.
+My goal is to utilize free open-source technology and software because I believe
+FOST/FOSS is a great way to achieve my tasks. Some FOSS I currently use is
+Godot Game Engine for games and simulations, Apache tools for automated data tasks and
+MySQL and PostgreSQL for database tasks.
 
 ## TECH TREE
 - **Languages** | Python, JavaScript, GDScript, C#, HTML, CSS, C++, SQL
