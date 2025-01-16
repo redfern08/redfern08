@@ -1,4 +1,4 @@
-## Hello! 👋 my name is Isaac!  I am a Data Engineer and Indie Game Developer
+## Hello! 👋 my name is Isaac!  Data and Game Developer!
 ---
 
 I love working with data, developing games and simulations.  If what I do helps 
