@@ -9,10 +9,12 @@ Godot Game Engine for games and simulations, Apache tools for automated data tas
 MySQL and PostgreSQL for database tasks.
 
 ## TECH TREE
-- **Languages** | Python, JavaScript, GDScript, C#, HTML, CSS, C++, SQL
+- **Languages** | Python, GDScript, C#, C++, SQL
 - **Libraries** | pandas, matplotlib, seaborn
 - **Database** | SQLite3, PostgreSQL, MySQL
-- **Tools** | Git, VS Code, CMDprompt, PowerShell, API integration, Object Oriented Programming
+- **Tools** | Git, VS Code, cmd prompt, bash and powershell
+- **Game Engine** | Godot, PyGame
+- **OS** | Windows and Linux
 
 ## Portfolio
 You can view my portfolio [here](https://isaacfearn.com/).  I will add more of my projects and work
