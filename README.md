@@ -1,20 +1,17 @@
-## Hello! 👋 my name is Isaac!  Data and Game Developer!
+## Hello! 👋 my name is Isaac!  Simulated Data Developer
 ---
 
-I love working with data, developing games and simulations.  If what I do helps 
-at least one person then I am happy.
-My goal is to utilize free open-source technology and software because I believe
-FOST/FOSS is a great way to achieve my tasks. Some FOSS I currently use is
-Godot Game Engine for games and simulations, Apache tools for automated data tasks and
-MySQL and PostgreSQL for database tasks.
+I develop simulations around data.  Examples include logistical data
+for route optimization, cargo weight management, flight logging and mission
+critical optimization.  Space is my domain.  
 
-## TECH TREE
-- **Languages** | Python, GDScript, C#, C++, SQL
-- **Libraries** | pandas, matplotlib, seaborn
-- **Database** | SQLite3, PostgreSQL, MySQL
-- **Tools** | Git, VS Code, cmd prompt, bash and powershell
-- **Game Engine** | Godot, PyGame
-- **OS** | Windows and Linux
+## My Tools
+My development philosophy is design and prototype using
+open source technologies.  Minimal tools, maximum effort.
+
+- Godot and Blender for 3D and 2D development.
+- Python, SQL and C# for data application development 
+and simulation code.
 
 ## Portfolio
 You can view my portfolio [here](https://isaacfearn.com/).  I will add more of my projects and work
