@@ -1,4 +1,4 @@
-## Hello! 👋 my name is Isaac!  Simulated Data Developer
+## Hello! 👋 my name is Isaac!  Data Engineer and Simulation Developer
 ---
 
 I develop simulations around data.  Examples include logistical data
