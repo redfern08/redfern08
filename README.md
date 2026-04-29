@@ -20,10 +20,10 @@ MySQL and PostgreSQL for database tasks.
 You can view my portfolio [here](https://isaacfearn.com/).  I will add more of my projects and work
 overtime.
 
-
+### --ARCHIVED--
 🔭 [Curiosity Photos](https://isaacfearn.com/curiosityphotos/) is a web application that fetches data from NASA's rover API 
 and displays an image that the Curiosity rover has taken on Mars.  Users can select a date and a camera to view from and shows
-the user the first picture in the data's list.
+the user the first picture in the data's list. 
 
 
 <!---
