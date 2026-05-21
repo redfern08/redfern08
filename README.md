@@ -1,6 +1,6 @@
-# Hi I am Isaac.  
+# Hi I am Isaac
 
-### Simulation Engineer.
+### Simulation Engineer
 
 Data pipelines that bring in clean, useable data.  Simulations
 that that help the world.
