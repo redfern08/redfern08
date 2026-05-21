@@ -1,13 +1,13 @@
-## Hello! 👋 my name is Isaac!  Data Engineer and Simulation Developer
----
+# Hi I am Isaac.  
 
-I develop simulations around data.  Examples include logistical data
-for route optimization, cargo weight management, flight logging and mission
-critical optimization.  Space is my domain.  
+### Simulation Engineer.
 
-## My Tools
-My development philosophy is design and prototype using
-open source technologies.  Minimal tools, maximum effort.
+Data pipelines that bring in clean, useable data.  Simulations
+that that help the world.
+
+## Tools
+Open source, minimalist design, local-first.
+Own your tech.  Control your data.
 
 - Godot and Blender for 3D and 2D development.
 - Python, SQL and C# for data application development 
