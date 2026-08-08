@@ -21,7 +21,7 @@ Follow my progress [here](https://redfern08.github.io/).
 ### Website and Social
 Name | Image   
 --- | ---      
-[LinkedIn](https://www.linkedin.com/in/isaac-fearn/) | <wa-icon name="linkedin" family="brands" style="color: rgb(0, 60, 167);"></wa-icon>
+[LinkedIn](https://www.linkedin.com/in/isaac-fearn/) | <i class="fa-brands fa-linkedin" style="color: rgb(0, 60, 167);"></i>
 
 
 
