@@ -11,7 +11,7 @@ data collection.
 ## Technology I use
 | Technology  | Icon     
 | ---         | ---       
-| Python      | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="width: 50 px;">
+| Python      | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="width: 10 px;">
 
 ## Portfolio
 You can view my portfolio [here](https://redfern08.github.io/).  I will add more of my projects and work
