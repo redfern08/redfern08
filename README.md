@@ -17,7 +17,7 @@ each one
 
 ## Portfolio
 Follow my progress 
-[Website](https://redfern08.github.io/).   
+[Website](https://redfern08.github.io/)   
 [LinkedIn](https://www.linkedin.com/in/isaac-fearn/)
 
 <!---
