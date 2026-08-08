@@ -1,12 +1,11 @@
-# I am Isaac
-
 ## Simulation Engineer
 Virtual systems, real possibilities.
 
 My design philosophy is open source software, minimalist design, local-first.  
 Modeling systems and digital twins, utilizing a game based modeling and simulation
 approach creates an interactive environment, allowing for parameter adjustments and
-data collection.
+data collection.  From small deterministic prototypes to complex probabilistic simulations,
+each one
 
 ## Technology I use
 | Technology  | Uses     
@@ -17,8 +16,13 @@ data collection.
 | Godot       | Simulation, Game development
 
 ## Portfolio
-You can view my portfolio [here](https://redfern08.github.io/).  I will add more of my projects and work
-overtime.
+Follow my progress [here](https://redfern08.github.io/).
+
+### Website and Social
+Name | Image   
+--- | ---      
+[LinkedIn](https://www.linkedin.com/in/isaac-fearn/) | <wa-icon name="linkedin" family="brands" style="color: rgb(0, 60, 167);"></wa-icon>
+
 
 
 <!---
