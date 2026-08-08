@@ -12,7 +12,12 @@ data collection.
 | Technology  | Uses     
 | ---         | ---       
 | Python      | Data
-| ---         | Simulation
+|             | Simulation
+| C#          | Web dashboards
+|             | Game development
+| SQL         | Databases
+| Godot       | Simulation
+|             | Games
 
 ## Portfolio
 You can view my portfolio [here](https://redfern08.github.io/).  I will add more of my projects and work
