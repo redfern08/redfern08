@@ -16,7 +16,8 @@ each one
 | Godot       | Simulation, Game development
 
 ## Portfolio
-Follow my progress [here](https://redfern08.github.io/).   
+Follow my progress 
+[Website](https://redfern08.github.io/).   
 [LinkedIn](https://www.linkedin.com/in/isaac-fearn/)
 
 <!---
