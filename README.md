@@ -1,14 +1,17 @@
 # I am Isaac
 
 ## Simulation Engineer
-"From Theory to Mission Through Simulation"
+Virtual systems, real possibilities.
 
-## Philosophy
-Open source software, minimalist design, local-first.
+My design philosophy is open source software, minimalist design, local-first.  
+Modeling systems and digital twins, utilizing a game based modeling and simulation
+approach creates an interactive environment, allowing for parameter adjustments and
+data collection.
 
-## Technology
-- Python, SQL, C# and .NET, C++
-- Godot Engine, Blender
+## Technology I use
+| Technology  | Icon     
+| ---         | ---       
+| Python      | <i class="fa-brands fa-python fa-float"></i>
 
 ## Portfolio
 You can view my portfolio [here](https://redfern08.github.io/).  I will add more of my projects and work
