@@ -1,6 +1,6 @@
 # I am Isaac
 
-## Data Engineer
+## Simulation Engineer
 "From Theory to Mission Through Simulation"
 
 ## Philosophy
@@ -11,7 +11,7 @@ Open source software, minimalist design, local-first.
 - Godot Engine, Blender
 
 ## Portfolio
-You can view my portfolio [here](https://isaacfearn.com/).  I will add more of my projects and work
+You can view my portfolio [here](https://redfern08.github.io/).  I will add more of my projects and work
 overtime.
 
 
